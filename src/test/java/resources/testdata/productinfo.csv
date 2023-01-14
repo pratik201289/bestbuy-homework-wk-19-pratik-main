@@ -1,0 +1,101 @@
+NAME,TYPE,PRICE,SHIPPING,UPC,DESCRIPTION,MANUFACTURER,MODEL,URL,IMAGE
+PANASONIC,ALAKALINE,23,APT 752,COOKERLY,TEMP,Dillard,MODEL2,http://dummyimage.com,http://dummyimage.com/127x100.png/5fa2dd/ffffff
+ENRGIZER,NORMAL,30,SUITE 78,COOKERLY,TEMP,Dillard,MODEL2,http://dummyimage.com,http://dummyimage.com/101x100.png/cc0000/ffffff
+ENRGIZER,ALAKALINE,30,P0BOX 5543,COOKERLY,TEMP,Dillard,MODEL3,http://dummyimage.com,http://dummyimage.com/242x100.png/dddddd/000000
+DURACELL,NORMAL,23,APT 752,COOKERLY,METASOFT,Dillard,MODEL3,http://dummyimage.com,http://dummyimage.com/147x100.png/cc0000/ffffff
+ENRGIZER,ALAKALINE,56,P0BOX 5543,TEMP,TEMP,Dillard,MODEL2,http://dummyimage.com,http://dummyimage.com/226x100.png/ff4444/ffffff
+PANASONIC,ALAKALINE,12,P0BOX 5543,COOKERLY,METASOFT,Dillard,MODEL2,http://dummyimage.com,http://dummyimage.com/172x100.png/cc0000/ffffff
+DURACELL,NORMAL,56,P0BOX 5543,COOKERLY,METASOFT,Dillard,MODEL1,http://dummyimage.com,http://dummyimage.com/235x100.png/ff4444/ffffff
+ENRGIZER,NORMAL,40,P0BOX 5543,METASOFT,TEMP,Dillard,MODEL1,http://dummyimage.com,http://dummyimage.com/152x100.png/5fa2dd/ffffff
+DURACELL,ALAKALINE,12,P0BOX 5543,COOKERLY,METASOFT,Dillard,MODEL2,http://dummyimage.com,http://dummyimage.com/100x100.png/cc0000/ffffff
+DURACELL,ALAKALINE,40,APT 752,COOKERLY,METASOFT,USA Compression,MODEL3,http://dummyimage.com,http://dummyimage.com/122x100.png/ff4444/ffffff
+PANASONIC,NORMAL,56,P0BOX 5543,METASOFT,TEMP,USA Compression,MODEL3,http://dummyimage.com,http://dummyimage.com/235x100.png/dddddd/000000
+DURACELL,ALAKALINE,30,P0BOX 5543,METASOFT,METASOFT,USA Compression,MODEL1,http://dummyimage.com,http://dummyimage.com/101x100.png/5fa2dd/ffffff
+PANASONIC,NORMAL,56,P0BOX 5543,TEMP,COOKERLY,USA Compression,MODEL3,http://dummyimage.com,http://dummyimage.com/244x100.png/ff4444/ffffff
+PANASONIC,NORMAL,12,APT 752,METASOFT,METASOFT,Partick,MODEL1,http://dummyimage.com,http://dummyimage.com/244x100.png/cc0000/ffffff
+DURACELL,NORMAL,56,SUITE 78,METASOFT,TEMP,Partick,MODEL2,http://dummyimage.com,http://dummyimage.com/239x100.png/5fa2dd/ffffff
+DURACELL,NORMAL,23,P0BOX 5543,TEMP,METASOFT,Dillard,MODEL2,http://dummyimage.com,http://dummyimage.com/104x100.png/dddddd/000000
+DURACELL,NORMAL,40,P0BOX 5543,METASOFT,TEMP,Partick,MODEL1,http://dummyimage.com,http://dummyimage.com/186x100.png/5fa2dd/ffffff
+PANASONIC,NORMAL,40,APT 752,METASOFT,TEMP,Partick,MODEL2,http://dummyimage.com,http://dummyimage.com/246x100.png/ff4444/ffffff
+ENRGIZER,NORMAL,56,APT 752,METASOFT,COOKERLY,Dillard,MODEL2,http://dummyimage.com,http://dummyimage.com/233x100.png/5fa2dd/ffffff
+ENRGIZER,NORMAL,23,APT 752,METASOFT,COOKERLY,Dillard,MODEL1,http://dummyimage.com,http://dummyimage.com/135x100.png/ff4444/ffffff
+DURACELL,ALAKALINE,40,SUITE 78,COOKERLY,COOKERLY,Partick,MODEL1,http://dummyimage.com,http://dummyimage.com/213x100.png/cc0000/ffffff
+ENRGIZER,NORMAL,30,APT 752,METASOFT,COOKERLY,USA Compression,MODEL3,http://dummyimage.com,http://dummyimage.com/234x100.png/5fa2dd/ffffff
+ENRGIZER,NORMAL,40,APT 752,METASOFT,COOKERLY,Dillard,MODEL1,http://dummyimage.com,http://dummyimage.com/152x100.png/ff4444/ffffff
+PANASONIC,NORMAL,12,APT 752,METASOFT,TEMP,Partick,MODEL3,http://dummyimage.com,http://dummyimage.com/221x100.png/5fa2dd/ffffff
+DURACELL,ALAKALINE,30,APT 752,TEMP,COOKERLY,USA Compression,MODEL2,http://dummyimage.com,http://dummyimage.com/216x100.png/ff4444/ffffff
+PANASONIC,NORMAL,56,SUITE 78,COOKERLY,METASOFT,USA Compression,MODEL1,http://dummyimage.com,http://dummyimage.com/229x100.png/ff4444/ffffff
+ENRGIZER,ALAKALINE,40,SUITE 78,TEMP,TEMP,USA Compression,MODEL2,http://dummyimage.com,http://dummyimage.com/149x100.png/dddddd/000000
+DURACELL,ALAKALINE,56,P0BOX 5543,TEMP,TEMP,Partick,MODEL1,http://dummyimage.com,http://dummyimage.com/229x100.png/ff4444/ffffff
+ENRGIZER,ALAKALINE,56,P0BOX 5543,TEMP,TEMP,Partick,MODEL3,http://dummyimage.com,http://dummyimage.com/117x100.png/dddddd/000000
+DURACELL,NORMAL,30,SUITE 78,COOKERLY,COOKERLY,USA Compression,MODEL3,http://dummyimage.com,http://dummyimage.com/180x100.png/ff4444/ffffff
+DURACELL,NORMAL,12,APT 752,TEMP,COOKERLY,Dillard,MODEL3,http://dummyimage.com,http://dummyimage.com/156x100.png/cc0000/ffffff
+ENRGIZER,ALAKALINE,12,P0BOX 5543,METASOFT,TEMP,Partick,MODEL3,http://dummyimage.com,http://dummyimage.com/242x100.png/ff4444/ffffff
+PANASONIC,ALAKALINE,56,P0BOX 5543,TEMP,TEMP,Dillard,MODEL2,http://dummyimage.com,http://dummyimage.com/227x100.png/cc0000/ffffff
+DURACELL,ALAKALINE,12,P0BOX 5543,TEMP,TEMP,Partick,MODEL2,http://dummyimage.com,http://dummyimage.com/214x100.png/ff4444/ffffff
+ENRGIZER,ALAKALINE,40,APT 752,METASOFT,METASOFT,Partick,MODEL2,http://dummyimage.com,http://dummyimage.com/222x100.png/dddddd/000000
+ENRGIZER,ALAKALINE,30,P0BOX 5543,COOKERLY,TEMP,Partick,MODEL1,http://dummyimage.com,http://dummyimage.com/181x100.png/ff4444/ffffff
+PANASONIC,ALAKALINE,30,APT 752,TEMP,TEMP,USA Compression,MODEL3,http://dummyimage.com,http://dummyimage.com/161x100.png/5fa2dd/ffffff
+DURACELL,ALAKALINE,30,P0BOX 5543,METASOFT,TEMP,USA Compression,MODEL1,http://dummyimage.com,http://dummyimage.com/149x100.png/5fa2dd/ffffff
+ENRGIZER,ALAKALINE,30,APT 752,TEMP,METASOFT,Partick,MODEL3,http://dummyimage.com,http://dummyimage.com/156x100.png/dddddd/000000
+ENRGIZER,NORMAL,40,APT 752,COOKERLY,COOKERLY,Partick,MODEL2,http://dummyimage.com,http://dummyimage.com/197x100.png/dddddd/000000
+ENRGIZER,NORMAL,12,APT 752,TEMP,COOKERLY,USA Compression,MODEL2,http://dummyimage.com,http://dummyimage.com/164x100.png/cc0000/ffffff
+DURACELL,ALAKALINE,23,APT 752,METASOFT,TEMP,USA Compression,MODEL1,http://dummyimage.com,http://dummyimage.com/117x100.png/ff4444/ffffff
+DURACELL,NORMAL,40,SUITE 78,TEMP,TEMP,Dillard,MODEL2,http://dummyimage.com,http://dummyimage.com/248x100.png/cc0000/ffffff
+PANASONIC,ALAKALINE,23,APT 752,COOKERLY,TEMP,Dillard,MODEL1,http://dummyimage.com,http://dummyimage.com/205x100.png/ff4444/ffffff
+ENRGIZER,ALAKALINE,12,P0BOX 5543,TEMP,METASOFT,USA Compression,MODEL1,http://dummyimage.com,http://dummyimage.com/160x100.png/cc0000/ffffff
+PANASONIC,ALAKALINE,30,SUITE 78,METASOFT,TEMP,USA Compression,MODEL2,http://dummyimage.com,http://dummyimage.com/117x100.png/5fa2dd/ffffff
+DURACELL,NORMAL,30,APT 752,COOKERLY,COOKERLY,Dillard,MODEL3,http://dummyimage.com,http://dummyimage.com/207x100.png/5fa2dd/ffffff
+ENRGIZER,ALAKALINE,40,P0BOX 5543,COOKERLY,TEMP,Dillard,MODEL2,http://dummyimage.com,http://dummyimage.com/185x100.png/5fa2dd/ffffff
+PANASONIC,NORMAL,12,APT 752,TEMP,TEMP,USA Compression,MODEL1,http://dummyimage.com,http://dummyimage.com/100x100.png/cc0000/ffffff
+ENRGIZER,NORMAL,23,SUITE 78,METASOFT,COOKERLY,USA Compression,MODEL1,http://dummyimage.com,http://dummyimage.com/120x100.png/cc0000/ffffff
+PANASONIC,ALAKALINE,40,APT 752,METASOFT,METASOFT,Dillard,MODEL3,http://dummyimage.com,http://dummyimage.com/216x100.png/5fa2dd/ffffff
+PANASONIC,ALAKALINE,30,SUITE 78,TEMP,COOKERLY,Dillard,MODEL3,http://dummyimage.com,http://dummyimage.com/104x100.png/dddddd/000000
+PANASONIC,NORMAL,30,APT 752,METASOFT,METASOFT,Partick,MODEL3,http://dummyimage.com,http://dummyimage.com/206x100.png/ff4444/ffffff
+DURACELL,ALAKALINE,12,SUITE 78,TEMP,TEMP,Partick,MODEL3,http://dummyimage.com,http://dummyimage.com/187x100.png/dddddd/000000
+ENRGIZER,NORMAL,30,APT 752,METASOFT,METASOFT,USA Compression,MODEL3,http://dummyimage.com,http://dummyimage.com/210x100.png/cc0000/ffffff
+ENRGIZER,NORMAL,40,SUITE 78,COOKERLY,TEMP,USA Compression,MODEL3,http://dummyimage.com,http://dummyimage.com/218x100.png/dddddd/000000
+ENRGIZER,NORMAL,30,APT 752,METASOFT,TEMP,Dillard,MODEL2,http://dummyimage.com,http://dummyimage.com/213x100.png/5fa2dd/ffffff
+ENRGIZER,NORMAL,30,P0BOX 5543,TEMP,COOKERLY,USA Compression,MODEL3,http://dummyimage.com,http://dummyimage.com/228x100.png/5fa2dd/ffffff
+DURACELL,NORMAL,30,P0BOX 5543,TEMP,TEMP,Dillard,MODEL1,http://dummyimage.com,http://dummyimage.com/151x100.png/dddddd/000000
+DURACELL,NORMAL,12,APT 752,COOKERLY,METASOFT,USA Compression,MODEL1,http://dummyimage.com,http://dummyimage.com/238x100.png/cc0000/ffffff
+PANASONIC,NORMAL,56,APT 752,COOKERLY,COOKERLY,Partick,MODEL2,http://dummyimage.com,http://dummyimage.com/204x100.png/cc0000/ffffff
+PANASONIC,ALAKALINE,23,P0BOX 5543,COOKERLY,METASOFT,USA Compression,MODEL2,http://dummyimage.com,http://dummyimage.com/186x100.png/cc0000/ffffff
+PANASONIC,ALAKALINE,40,P0BOX 5543,TEMP,TEMP,Dillard,MODEL2,http://dummyimage.com,http://dummyimage.com/107x100.png/ff4444/ffffff
+DURACELL,ALAKALINE,12,APT 752,METASOFT,METASOFT,Dillard,MODEL1,http://dummyimage.com,http://dummyimage.com/152x100.png/5fa2dd/ffffff
+DURACELL,NORMAL,40,P0BOX 5543,TEMP,TEMP,Dillard,MODEL1,http://dummyimage.com,http://dummyimage.com/177x100.png/5fa2dd/ffffff
+ENRGIZER,ALAKALINE,12,APT 752,COOKERLY,TEMP,Partick,MODEL2,http://dummyimage.com,http://dummyimage.com/120x100.png/5fa2dd/ffffff
+ENRGIZER,NORMAL,40,APT 752,TEMP,TEMP,USA Compression,MODEL2,http://dummyimage.com,http://dummyimage.com/154x100.png/5fa2dd/ffffff
+ENRGIZER,NORMAL,23,P0BOX 5543,TEMP,TEMP,Dillard,MODEL1,http://dummyimage.com,http://dummyimage.com/211x100.png/ff4444/ffffff
+DURACELL,NORMAL,23,APT 752,TEMP,COOKERLY,Dillard,MODEL2,http://dummyimage.com,http://dummyimage.com/155x100.png/cc0000/ffffff
+PANASONIC,ALAKALINE,56,P0BOX 5543,METASOFT,METASOFT,Dillard,MODEL1,http://dummyimage.com,http://dummyimage.com/196x100.png/ff4444/ffffff
+PANASONIC,ALAKALINE,30,SUITE 78,COOKERLY,METASOFT,USA Compression,MODEL1,http://dummyimage.com,http://dummyimage.com/120x100.png/ff4444/ffffff
+DURACELL,NORMAL,56,SUITE 78,COOKERLY,COOKERLY,Dillard,MODEL3,http://dummyimage.com,http://dummyimage.com/154x100.png/5fa2dd/ffffff
+DURACELL,NORMAL,12,SUITE 78,TEMP,TEMP,USA Compression,MODEL1,http://dummyimage.com,http://dummyimage.com/128x100.png/ff4444/ffffff
+PANASONIC,NORMAL,40,APT 752,METASOFT,METASOFT,Partick,MODEL1,http://dummyimage.com,http://dummyimage.com/226x100.png/ff4444/ffffff
+DURACELL,NORMAL,12,SUITE 78,TEMP,COOKERLY,USA Compression,MODEL2,http://dummyimage.com,http://dummyimage.com/133x100.png/5fa2dd/ffffff
+ENRGIZER,NORMAL,40,SUITE 78,TEMP,METASOFT,USA Compression,MODEL3,http://dummyimage.com,http://dummyimage.com/102x100.png/ff4444/ffffff
+PANASONIC,ALAKALINE,12,SUITE 78,METASOFT,TEMP,USA Compression,MODEL1,http://dummyimage.com,http://dummyimage.com/125x100.png/cc0000/ffffff
+ENRGIZER,NORMAL,30,P0BOX 5543,METASOFT,TEMP,Dillard,MODEL1,http://dummyimage.com,http://dummyimage.com/153x100.png/cc0000/ffffff
+DURACELL,ALAKALINE,12,APT 752,COOKERLY,COOKERLY,Partick,MODEL3,http://dummyimage.com,http://dummyimage.com/123x100.png/5fa2dd/ffffff
+DURACELL,NORMAL,56,APT 752,METASOFT,COOKERLY,Partick,MODEL2,http://dummyimage.com,http://dummyimage.com/133x100.png/5fa2dd/ffffff
+PANASONIC,NORMAL,12,APT 752,COOKERLY,TEMP,Dillard,MODEL1,http://dummyimage.com,http://dummyimage.com/207x100.png/ff4444/ffffff
+DURACELL,ALAKALINE,12,APT 752,TEMP,COOKERLY,Dillard,MODEL1,http://dummyimage.com,http://dummyimage.com/207x100.png/ff4444/ffffff
+ENRGIZER,ALAKALINE,30,P0BOX 5543,METASOFT,TEMP,Dillard,MODEL1,http://dummyimage.com,http://dummyimage.com/130x100.png/cc0000/ffffff
+PANASONIC,ALAKALINE,40,APT 752,METASOFT,METASOFT,Dillard,MODEL3,http://dummyimage.com,http://dummyimage.com/159x100.png/5fa2dd/ffffff
+ENRGIZER,ALAKALINE,56,SUITE 78,COOKERLY,METASOFT,USA Compression,MODEL3,http://dummyimage.com,http://dummyimage.com/197x100.png/dddddd/000000
+ENRGIZER,ALAKALINE,12,APT 752,TEMP,COOKERLY,Partick,MODEL2,http://dummyimage.com,http://dummyimage.com/233x100.png/ff4444/ffffff
+ENRGIZER,NORMAL,56,P0BOX 5543,COOKERLY,TEMP,Dillard,MODEL2,http://dummyimage.com,http://dummyimage.com/171x100.png/ff4444/ffffff
+ENRGIZER,ALAKALINE,23,APT 752,COOKERLY,TEMP,Partick,MODEL1,http://dummyimage.com,http://dummyimage.com/232x100.png/5fa2dd/ffffff
+PANASONIC,NORMAL,30,P0BOX 5543,TEMP,TEMP,Dillard,MODEL1,http://dummyimage.com,http://dummyimage.com/102x100.png/ff4444/ffffff
+DURACELL,NORMAL,40,APT 752,TEMP,TEMP,USA Compression,MODEL1,http://dummyimage.com,http://dummyimage.com/143x100.png/dddddd/000000
+DURACELL,NORMAL,40,SUITE 78,COOKERLY,METASOFT,Dillard,MODEL3,http://dummyimage.com,http://dummyimage.com/120x100.png/cc0000/ffffff
+DURACELL,ALAKALINE,23,P0BOX 5543,METASOFT,METASOFT,Partick,MODEL3,http://dummyimage.com,http://dummyimage.com/168x100.png/cc0000/ffffff
+ENRGIZER,NORMAL,12,SUITE 78,COOKERLY,TEMP,Dillard,MODEL3,http://dummyimage.com,http://dummyimage.com/104x100.png/cc0000/ffffff
+PANASONIC,ALAKALINE,30,SUITE 78,TEMP,COOKERLY,USA Compression,MODEL1,http://dummyimage.com,http://dummyimage.com/235x100.png/dddddd/000000
+ENRGIZER,ALAKALINE,56,SUITE 78,METASOFT,METASOFT,Dillard,MODEL2,http://dummyimage.com,http://dummyimage.com/232x100.png/5fa2dd/ffffff
+PANASONIC,ALAKALINE,30,APT 752,TEMP,TEMP,Partick,MODEL3,http://dummyimage.com,http://dummyimage.com/210x100.png/ff4444/ffffff
+PANASONIC,ALAKALINE,40,SUITE 78,METASOFT,METASOFT,USA Compression,MODEL2,http://dummyimage.com,http://dummyimage.com/140x100.png/dddddd/000000
+ENRGIZER,NORMAL,40,APT 752,TEMP,TEMP,Partick,MODEL2,http://dummyimage.com,http://dummyimage.com/179x100.png/5fa2dd/ffffff
+ENRGIZER,ALAKALINE,23,SUITE 78,METASOFT,METASOFT,USA Compression,MODEL2,http://dummyimage.com,http://dummyimage.com/102x100.png/cc0000/ffffff
+DURACELL,ALAKALINE,23,SUITE 78,TEMP,COOKERLY,Dillard,MODEL1,http://dummyimage.com,http://dummyimage.com/146x100.png/ff4444/ffffff
